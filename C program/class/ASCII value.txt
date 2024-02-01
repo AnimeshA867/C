@@ -1,0 +1,1 @@
+For ascii value, the program takes input as character and convert it into its ASCII value if the result if printed as %d
